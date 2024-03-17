@@ -1,6 +1,8 @@
-In this project, my objective was to analyze the differences in labor market conditions, education, and demographics across Austrian municipalities of various sizes. What is it like to live in small village and how does it differ from live in Vienna? To conduct this analysis, I utilized data from Statistics Austria, specifically focusing on the 2019 census aggregated to the municipality level.
+**Introduction**
 
-Methodology
+In this project, my objective was to analyze the differences in labor market conditions, education, and demographics across Austrian municipalities of various sizes. What is it like to live in small village and how does it differ from life in Vienna? To conduct this analysis, I utilized data from Statistics Austria, specifically focusing on the 2019 census aggregated to the municipality level.
+
+**Methodology**
 
 I utilized ANOVA tests to examine the differences across 9 variables across the following categories of municipalities:
 
@@ -11,6 +13,8 @@ Towns: These municipalities fall within the 50th to 99th percentile range in ter
 Cities: This category includes municipalities falling within the 99th to 100th percentile range (excluding Vienna), with a population range of 24,473 to 290,540 residents.
 
 Vienna: Vienna stands as a separate category due to its unique status as the capital city of Austria, with a significantly larger population of 1,908,104 residents.
+
+**Findings**
 
 The findings from my analysis are as follows:
 
